@@ -14,27 +14,40 @@
   <a href="https://github.com/garciamauro-ai/led-studio-releases/releases">Novedades</a>
 </p>
 
+![Escenario 3D de LED Studio](img/3d.jpg)
+
 ---
 
 ## Qué hace
 
-**Pixel map**
+### Pixel map
 Armás el pixel map con gabinetes reales (pitch, píxeles, medidas, peso y consumo). Movés, dimensionás y
-recortás pantallas al píxel; el lienzo se adapta solo a la disposición.
+recortás pantallas al píxel; el lienzo se adapta solo a la disposición. Las pantallas se ordenan en grupos con color
+propio y se duplican en fila con la separación que pidas.
 
-**Escenario 3D**
+![Pixel map](img/pixelmap.jpg)
+
+### Escenario 3D
 Ves el show como va a quedar: pantallas con curvatura, rig de truss con lingas y motores, stage con lengua, proscenio
 y risers, PA, sidefill, outfill, FX y público. Vistas tipo Blender, vista técnica y un modo show con recorridos de cámara.
 
-**Luces**
+### Propiedades de cada pantalla
+Arriba la pantalla de frente y abajo en 3D. La curvatura se arma por secciones, con quiebres de hasta 90°.
+En el modo Paneles sacás o devolvés gabinetes tocándolos.
+
+![Propiedades de una pantalla](img/propiedades.jpg)
+
+### Luces
 Grupos de equipos (beams, spots, wash, strobes, pixel bars) colgados de cualquier truss y cara, o apoyados en el piso.
 Se combinan entre sí y se manejan como una consola: color, efectos, BPM, tap y haze.
 
-**Señal en vivo**
+![Luces](img/luces.jpg)
+
+### Señal en vivo
 La señal de tu software de video entra por SpoutCam o captura de pantalla y se ve en las pantallas del 3D. Cada pantalla puede
 tener su propia fuente (otra salida, una cámara o un loop) con encuadre Fit / Fill / Stretch.
 
-**Exportar**
+### Exportar
 Preset de salida (XML), test pattern en PNG, modelo 3D (GLB) para Blender / Unreal / TouchDesigner,
 captura del 3D y planilla CSV con gabinetes, peso, consumo y puertos.
 
@@ -67,4 +80,5 @@ Todo lo demás está en la ayuda de la app: botón **?** arriba a la derecha o t
 ## Contacto
 
 ¿Encontraste un error, se te ocurrió algo que le falta o querés contar cómo la usaste en tu show?
-Escribime por Instagram: **[@mavro360](https://www.instagram.com/mavro360/)**. Las ideas que llegan terminan en las próximas versiones.
+Escribime por Instagram: **[@mavro360](https://www.instagram.com/mavro360/)**, o desde la app con **Consultas y sugerencias**
+(en la ayuda y en Opciones). Las ideas que llegan terminan en las próximas versiones.
