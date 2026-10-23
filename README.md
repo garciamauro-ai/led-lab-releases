@@ -2,7 +2,7 @@
   <img src="icon.png" width="96" alt="LED Studio">
 </p>
 
-<h1 align="center">LED STUDIO <sub>by MAVRO360</sub></h1>
+<h1 align="center">LED STUDIO </h1>
 
 <p align="center">
   Planificador de pantallas LED y diseño básico de stages para shows en vivo.<br>
